@@ -22,7 +22,7 @@ ALGORITHM=HS256
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/exame-backend-dtlabs-2025.git
+git clone https://github.com/BrunoCortez64/exame-backend-dtlabs-2025.git
 cd exame-backend-dtlabs-2025
 ```
 
@@ -54,6 +54,3 @@ Acesse a documentação Swagger em: `http://localhost:8000/docs`
 - Docker
 - PyTest
 
-## Licença
-[Especifique a licença]
-```
